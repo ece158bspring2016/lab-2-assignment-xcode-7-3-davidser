@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7CD1E098AEB0091435B45E6A443D074DB504A03D+++C401289",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7CD1E098AEB0091435B45E6A443D074DB504A03D+++9A1A402" : 0,
+    "7CD1E098AEB0091435B45E6A443D074DB504A03D+++C401289" : 0,
+    "7CD1E098AEB0091435B45E6A443D074DB504A03D+++8B816E2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6EAEA5B0-94DC-4F84-81B7-156145FF7E5E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7CD1E098AEB0091435B45E6A443D074DB504A03D+++9A1A402" : "",
+    "7CD1E098AEB0091435B45E6A443D074DB504A03D+++C401289" : "lab-2-assignment-xcode-7-3-davidser\/",
+    "7CD1E098AEB0091435B45E6A443D074DB504A03D+++8B816E2" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Ratings",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Ratings.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ece158bspring2016\/lab-2-assignment-xcode-7-3-davidser",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7CD1E098AEB0091435B45E6A443D074DB504A03D+++8B816E2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ece158bspring2016\/lab-2-assignment-xcode-7-3-davidser.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7CD1E098AEB0091435B45E6A443D074DB504A03D+++9A1A402"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ece158bspring2016\/lab-2-assignment-xcode-7-3-davidser",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7CD1E098AEB0091435B45E6A443D074DB504A03D+++C401289"
+    }
+  ]
+}
